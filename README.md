@@ -57,7 +57,7 @@ The model achieved strong predictive performance, explaining approximately 93% o
 
 ---
 
-## 📸 Screenshots
+## 📸 
 
 ### Application Interface
 
